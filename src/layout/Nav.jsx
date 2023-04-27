@@ -1,7 +1,7 @@
 import { signOut } from "firebase/auth";
 import React from "react";
 import { Link } from "react-router-dom";
-import { auth } from "../configs/firebase.config";
+// import { auth } from "../configs/firebase.config";
 import useNav from "../hooks/useNav";
 
 const Nav = () => {
